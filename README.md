@@ -1,4 +1,4 @@
-# machinools
+# machinools (Outil gratuit SEO)
 Seo Project (suivi de positionnement, analyse de mots clés, profile de liens ...)
 
 ![A screenshot of Machinools](https://i.imgur.com/VRp917I.png)
